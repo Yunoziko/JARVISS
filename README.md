@@ -185,3 +185,4 @@ The research pipeline streams results via Server-Sent Events so the UI updates i
 | `ARCHITECTURE.md` | System overview diagrams, component deep-dives |
 | `TASKS.md` | Build task checklist with acceptance criteria |
 | `PRD.md` | Product requirements, success metrics, risk analysis |
+# JARVISS
